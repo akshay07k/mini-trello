@@ -16,6 +16,7 @@ cd mini-trello
 ```bash
 cd server
 npm install
+npm run seed
 ```
 
 
