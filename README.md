@@ -40,3 +40,8 @@ npm run dev
 cd client
 npm run dev
 ```
+
+### Login Credentials
+`email: 'alice@example.com', password: 'password'`
+
+`email: 'bob@example.com', password: 'password'`
